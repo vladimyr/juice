@@ -30,7 +30,7 @@
   "dependencies": {
     "batch": "0.5.1",
     "commander": "2.3.0",
-    "css-font-parser": "^0.2.0",
+    "css-font-parser": "vladimyr/css-font-parser",
     "cssom": "0.3.0",
     "jsdom": "0.9.0",
     "slick": "1.12.1",
